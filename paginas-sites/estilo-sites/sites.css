@@ -10,7 +10,7 @@
 body{
     width:85vw;
     height: 100vh;
-    background-color: darkred;
+    background-color: black;
 }
 img{
     width: 100vw;
@@ -19,7 +19,7 @@ img{
 a{
     width: 100%;
     display: block;
-    background-color: darkred;
+    background-color: black;
     padding: 25px;
     color: white;
     text-decoration: none;
