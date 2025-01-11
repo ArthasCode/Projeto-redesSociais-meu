@@ -38,7 +38,7 @@ section#sites img{
 a{
     display: block;
     box-sizing: border-box;
-    margin: 15px;
+    margin-bottom: 15px;
 }
 section#sites img:hover{
     transform: translate(-3px,-3px);
